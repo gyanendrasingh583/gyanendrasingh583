@@ -9,7 +9,6 @@
 <a href="https://www.facebook.com/gyanendrasingh.varanasi/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" height="30" width="30"></a>
 <a href="https://www.instagram.com/hey__vats/?hl=en"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" height="30" width="30"></a>
 <a href="https://twitter.com/Gyanend85762752"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" height="30" width="30"></a>
-
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 <!---
 gyanendrasingh583/gyanendrasingh583 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
