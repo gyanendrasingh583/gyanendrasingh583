@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gyanendra Singh, 3rd year undergraduate at IIT BHU.
+- 👋 Hi, I’m Gyanendra Singh, final year undergraduate at IIT BHU.
 - 👀 I’m interested in software development, machine learning, opencv and robotics.
 - 🌱 I’m currently learning React.js, angular, Django & dsa.
 - 💞️ I love to learn and contribute in any and every possible way.
