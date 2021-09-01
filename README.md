@@ -5,7 +5,7 @@
 - 😎 When I am not coding, drones and Music are my favourites
 - 📫 How to reach me ... gyanendrasingh.eee18@itbhu.ac.in
 <br/>
-<a href="https://gyanendrasingh583.github.io/trial/"><img src="https://media.giphy.com/media/mDTEoU6iCFplWMG3HV/giphy.gif" alt="Gyanendra Singh's Portfolio" height="30" width="30"></a>
+<a href="https://gyanendrasingh583.github.io/trial/"><img src="https://media.giphy.com/media/xT9IgJDoafV91dzHkA/giphy.gif" alt="Gyanendra Singh's Portfolio" height="30" width="30"></a>
 <a href="https://dev.to/gyanendrasingh583"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Gyanendra Singh's DEV Profile" height="30" width="30"></a>
 <a href="https://www.linkedin.com/in/gyanendra-singh-743b39186/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" height="30" width="30"></a>
 <a href="https://www.facebook.com/gyanendrasingh.varanasi/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" height="30" width="30"></a>
