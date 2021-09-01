@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/l0MYM8iCTykT0yUp2/giphy.gif)
 - 👋 Hi, I’m Gyanendra Singh, final year undergraduate at IIT BHU.
 - 👀 I’m interested in software development, machine learning, opencv and robotics.
 - 🌱 I’m currently learning React.js, angular, Django & dsa.
