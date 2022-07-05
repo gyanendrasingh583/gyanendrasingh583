@@ -1,5 +1,5 @@
 ![Alt Text](https://media.giphy.com/media/l0MYM8iCTykT0yUp2/giphy.gif)
-- 👋 Hi, I’m Gyanendra Singh, final year undergraduate at IIT BHU.
+- 👋 Hi, I’m Gyanendra Singh,graduated in electrical engineering at IIT BHU and working as a software developer at BOSCH.
 - 👀 I’m interested in software development, machine learning, opencv and robotics.
 - 🌱 I’m currently learning React.js, angular, Django & dsa.
 - 💞️ I love to learn and contribute in any and every possible way.
